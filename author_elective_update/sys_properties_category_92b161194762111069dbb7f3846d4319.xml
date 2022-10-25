@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>NeedtProperties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 02:51:49</sys_created_on>
+        <sys_id>92b161194762111069dbb7f3846d4319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedtProperties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_92b161194762111069dbb7f3846d4319</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 02:51:49</sys_updated_on>
+        <title><![CDATA[<p><strong>&lt;Add a small image and the text of your choice. Apply the formatting of your choice such as bold or italics.&gt;</strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=92b161194762111069dbb7f3846d4319"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a36039d3db5101101b813feb68961950</instance_id>
+        <instance_name>dev123873</instance_name>
+        <name>sys_properties_category_92b161194762111069dbb7f3846d4319</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;NeedtProperties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-10-14 02:51:49&lt;/sys_created_on&gt;&lt;sys_id&gt;92b161194762111069dbb7f3846d4319&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;NeedtProperties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_92b161194762111069dbb7f3846d4319&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-10-14 02:51:49&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&amp;lt;Add a small image and the text of your choice. Apply the formatting of your choice such as bold or italics.&amp;gt;&lt;/strong&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=92b161194762111069dbb7f3846d4319"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-429978303</payload_hash>
+        <record_name>NeedtProperties</record_name>
+        <reverted_from/>
+        <source>b3e78fca4716111069dbb7f3846d434a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-14 02:51:49</sys_created_on>
+        <sys_id>740265194762111069dbb7f3846d4380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183d467b3bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-14 02:51:49</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>bc0265191c621110ce7cc9af59f67d7f</update_guid>
+        <update_guid_history>bc0265191c621110ce7cc9af59f67d7f:-429978303</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 02:35:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>2ec15f69c62b456e8bc5f56adcb52f04</sys_id>
+        <sys_metadata>92b161194762111069dbb7f3846d4319</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedtProperties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_92b161194762111069dbb7f3846d4319</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_92b161194762111069dbb7f3846d4319">740265194762111069dbb7f3846d4380</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-18 02:35:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
